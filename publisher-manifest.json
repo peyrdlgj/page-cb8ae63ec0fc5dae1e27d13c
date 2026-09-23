@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6aa1bad5ad8e24f39cd32d6c",
+  "owner": "peyrdlgj",
+  "repo": "page-cb8ae63ec0fc5dae1e27d13c",
+  "title": "雨燕云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb8ae63ec0fc5dae1e27d13c",
+      "a": "雨燕云",
+      "b": "2027官方最新地址导航",
+      "entity": "雨燕云",
+      "brand": "雨燕云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3defdc6448528fbfa4bc9a982d36d03deed58e8104fdb9d2486f1a1eb688069c",
+      "content": {
+        "primary_entity": "雨燕云",
+        "keyword1": "雨燕云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备挑选合适的套餐，即可开始配置雨燕云订阅。",
+          "AI_CLOSING_TITLE": "开始配置雨燕云",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开，帮助用户按自身设备数量与流量需求挑选基础版、旗舰版或团队版。基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线游戏加速，团队版每月 1000GB、支持 20 台设备。用户可先确认设备类型与订阅周期，再依客户端文档完成订阅导入，各套餐按年付均有对应优惠。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度说明。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人或双人日常使用，旗舰版流量与设备数更宽裕，团队版面向多人协作场景。",
+          "AI_FEATURE_TEXT_2": "先统计同时在线的手机、电脑与平板数量，再对照各套餐支持的设备台数，避免频繁挤占连接数。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，可依使用时长取舍。",
+          "AI_FEATURE_TITLE_1": "套餐按需挑选",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期取舍",
+          "AI_GUIDE_INTRO": "挑选服务、确认适配、导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "雨燕云提供基础版、旗舰版与团队版三档海外加速套餐，覆盖日常浏览、流媒体与游戏加速场景，支持多设备同时在线。用户可按流量需求与设备数量选择套餐，并按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "多设备海外加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上依次升级，可按使用人数与场景对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确定主要使用场景与同时在线设备数量，在基础版、旗舰版、团队版中选出匹配的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备台数与节点类型，确认是否满足日常浏览、流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅，完成连接设置后即可在多台设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "雨燕云海外加速套餐",
+          "AI_FAQ_ANSWER_1": "支持 Windows、macOS、Android、iOS 及 OpenWrt 路由器。不同系统有对应的主流客户端，选择时参考设备类型与系统版本即可。",
+          "AI_FAQ_ANSWER_2": "基础版限 3 台，旗舰版限 5 台，团队版限 20 台。在线设备同时超过上限时，较早连接的设备会被断开，需要手动下线其他设备。",
+          "AI_FAQ_ANSWER_3": "流量按自然月重置，未用完的部分不结转至下月。团队版流量池较大，适合多人共享场景。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算。基础版年付 150 元、旗舰版 350 元、团队版 850 元。如果确认长期使用，直接选年付可以节省约两个月费用。",
+          "AI_FAQ_ANSWER_5": "在客户端中粘贴订阅地址并更新配置，节点列表会自动载入。选择延迟较低的节点连接后，即可在浏览器或其他应用中访问所需内容。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雨燕云支持哪些客户端？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何限制？",
+          "AI_FAQ_QUESTION_3": "套餐流量是按月重置还是按总量计算？",
+          "AI_FAQ_QUESTION_4": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅并开始使用？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yanidisi.cn",
+    "host": "yanidisi.cn"
+  },
+  "file_hashes": {
+    "index.html": "16663f20b36619c79b79836c263a0c476682cbf3f628c97f53126f7116574e56",
+    "sitemap.xml": "7395390e5798328c02a66aa64ecbcf4b1a8eab791f79dd031ff39720781b454e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "141db19897d8ddec6a991117f92a5b169c0695732e94d1a95bdd7d02f2ae3d97",
+    "robots.txt": "ff5c430e9734b83df1a3731acbcbc461365ff229c8d2706a91d5948b09131ee8",
+    "7a85be35b49e5c8f98d5ada34d353db1.txt": "c1df5d8482749f231bd8f59e9e89de835293c99234a21123411421efe72b5b16"
+  },
+  "revision": "86fcd06b76aca8b2155ee14ad72eb0ff16aed3d2ee22498566ee640d0a575c82"
+}
